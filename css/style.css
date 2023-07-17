@@ -66,6 +66,33 @@ header{
 }
 
 
+/* SECTION UN LUOGO A INVITO... */
+
+.section-unluogoainvito{
+  background-color: white;
+  height: 550px;
+  padding: 40px 0px 40px 0px;
+}
+
+.unluogoainvito {
+  background-color: #FFC0CB;
+  height: 350px;
+  width: 40%;
+  justify-content: flex-end;
+  border-style: dashed;
+
+}
+
+.image-unluogoainvito{
+  background-color: #1E90FF;
+  height: 350px;
+  width: 60%;
+  justify-content: flex-start;
+  border-style: dashed;
+
+}
+
+
 
 
 
