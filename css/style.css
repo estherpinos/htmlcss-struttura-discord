@@ -5,12 +5,13 @@
 }
 
 .menu{
-  background-color: #ADD8E6;
-  height: 60px;
+  background-color: #ADD8E6; /*delete after*/
+  height: 60px; /
 }
 
 .iltuopostoperparlare{
 
-  background-color: #00008B;
-  height: 400px;
+  background-color: #00008B; /*delete after*/
+  height: 400px; 
 }
+
