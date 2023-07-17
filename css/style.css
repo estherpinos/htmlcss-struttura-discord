@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu{
+  background-color: #ADD8E6;
+  height: 60px;
+}
+
+.iltuopostoperparlare{
+
+  background-color: #00008B;
+  height: 400px;
+}
