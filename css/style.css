@@ -26,7 +26,8 @@ header{
 #containerlogo{
   height: 30px;
   background-color: #DAA520; /*delete after*/
-  border-style: dashed;
+  border-style: dashed;/*delete after*/
+  border-width: 4px;/*delete after*/
   justify-content: space-between;
   padding: 4px;
   
@@ -34,7 +35,8 @@ header{
 }
 
 .logo{
-  border-right-style: dashed;
+  border-right-style: dashed;/*delete after*/
+  border-width: 4px;/*delete after*/
   padding-right: 100px;
 }
 
@@ -44,6 +46,7 @@ header{
 
 .login{
   border-left-style: dashed;
+  border-width: 4px;
   padding-left: 100px;
 }
 
@@ -63,7 +66,8 @@ header{
   width: 80%;
   height: 300px;
   background-color: #EE82EE; /*delete after*/
-  border-style: dashed;
+  border-style: dashed;/*delete after*/
+  border-width: 4px;/*delete after*/
 }
 
 
@@ -79,7 +83,8 @@ header{
   height: 450px;
   width: 60%;
   justify-content: flex-start;
-  border-style: dashed;
+  border-style: dashed;/*delete after*/
+  border-width: 4px;/*delete after*/
   
 }
 
@@ -88,7 +93,8 @@ header{
   height: 450px;
   width: 40%;
   justify-content: flex-end;
-  border-style: dashed;
+  border-style: dashed;/*delete after*/
+  border-width: 4px;
 }
 
 
@@ -120,7 +126,8 @@ header{
 
 #container-tecnologia-affidabile{
   background-color: #228B22; /*delete after*/
-  border-style: dashed;
+  border-style: dashed;/*delete after*/
+  border-width: 4px;/*delete after*/
   height: 600px;
 }
 
@@ -135,19 +142,21 @@ header{
 }
 
 .il-tuo-posto-per-parlare{
-  background-color: #F08080;
+  background-color: #F08080;/*delete after*/
   width: 35%;
   height: 450px;
   justify-content: flex-start;
-  border-style: dashed;
+  border-style: dashed;/*delete after*/
+  border-width: 4px;/*delete after*/
 }
 
 .option-footer{
-  background-color: #20B2AA;
+  background-color: #20B2AA; /*delete after*/
   width: calc(65% / 4);
   height: 450px;
-  border-style: dashed;
-  border-color: white;
+  border-style: dashed;/*delete after*/
+  border-width: 4px;/*delete after*/
+  border-color: white;/*delete after*/
 }
 
 /* CONTAINER FOOTER DISCORD */
@@ -160,26 +169,27 @@ header{
 }
 
 #container-footer-discord{
-  background-color: #CCE4F7;
+  background-color: #CCE4F7;/*delete after*/
   justify-content: space-between;
   align-items: center;
   height: 75px;
 }
 
 .logo-discord{
-  background-color: #FFB6C1;
+  background-color: #FFB6C1;/*delete after*/
   width: 60px;
   height: 30px;
-  border-style: dashed;
+  border-style: dashed;/*delete after*/
+  border-width: 4px;/*delete after*/
   text-align: center;
 }
 
 .registrati{
-  background-color: #FFB6C1;
+  background-color: #FFB6C1;/*delete after*/
   width: 60px;
   height: 30px;
-  border-style: dashed;
-  border-width: 4px;
+  border-style: dashed;/*delete after*/
+  border-width: 4px;/*delete after*/
   text-align: center;
 }
 
