@@ -4,14 +4,73 @@
   box-sizing: border-box;
 }
 
-.menu{
+/* HEADER */
+
+header{
   background-color: #ADD8E6; /*delete after*/
-  height: 60px; /
+  height: 60px;
+  padding-top:15px ;
 }
 
-.iltuopostoperparlare{
 
-  background-color: #00008B; /*delete after*/
-  height: 400px; 
+.container-flex {
+  display: flex;
+  justify-content: center;
+  margin: 0px auto;
+  width: 65%;
+  
+ 
 }
+
+#containerlogo{
+  height: 30px;
+  background-color: #DAA520;
+  border-style: dashed;
+  justify-content: space-between;
+  padding: 4px;
+  
+
+}
+
+.logo{
+  border-right-style: dashed;
+  padding-right: 100px;
+}
+
+.links{
+  display: inline-flex;
+}
+
+.login{
+  border-left-style: dashed;
+  padding-left: 100px;
+}
+
+/* MAIN */
+
+/* SECTION BUTTONS */
+
+.buttons{
+  background-color: #00008B;
+  height: 400px;
+  padding-top: 50px;
+}
+
+
+.container-flex-buttons{
+
+  width: 80%;
+  height: 300px;
+  background-color: #EE82EE;
+  border-style: dashed;
+}
+
+
+
+
+
+
+
+
+
 
