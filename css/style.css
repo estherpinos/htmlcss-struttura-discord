@@ -71,19 +71,20 @@ header{
 .section-white{
   background-color: white;
   height: 550px;
-  padding: 40px 0px 40px 0px;
+  padding: 50px 0px 50px 0px;
 }
 .image-box{
   background-color: #1E90FF;
-  height: 350px;
+  height: 450px;
   width: 60%;
   justify-content: flex-start;
   border-style: dashed;
+  
 }
 
 .text-box {
   background-color: #FFC0CB;
-  height: 350px;
+  height: 450px;
   width: 40%;
   justify-content: flex-end;
   border-style: dashed;
@@ -96,7 +97,11 @@ header{
 .section-grey{
   background-color: #D3D3D3;
   height: 550px;
-  padding: 40px 0px 40px 0px;
+  padding: 50px 0px 50px 0px;
+}
+
+#container-dovetrovarsi{
+  flex-direction: row-reverse;
 }
 
 
